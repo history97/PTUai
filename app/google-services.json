@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1013594285937",
+    "firebase_url": "https://ptuai-bb2dd-default-rtdb.firebaseio.com",
+    "project_id": "ptuai-bb2dd",
+    "storage_bucket": "ptuai-bb2dd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013594285937:android:c51579a6050001e443f8d0",
+        "android_client_info": {
+          "package_name": "kr.landscapebid.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1013594285937-26sp3mb7jpelba172speeeeojr7jom3o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kr.landscapebid.app",
+            "certificate_hash": "56ee577fcf582b0c3ea45655cf492087bbd77fe8"
+          }
+        },
+        {
+          "client_id": "1013594285937-jvl5rr9q7vbh6m52ks04hqts01ppbl9j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTeDNjKAYvUSWUxx3omyWk_rvlAbDAz88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1013594285937-jvl5rr9q7vbh6m52ks04hqts01ppbl9j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
