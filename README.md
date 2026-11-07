@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 서울시 조경공사 낙찰하한가 계산기 (Android / Kotlin)
 
 웹 버전(`tools/index.original.html`)을 안드로이드 앱으로 옮기는 프로젝트입니다. Gradle 멀티모듈입니다.
@@ -79,3 +80,7 @@ if (out is CalcOutcome.Ok) println(Format.won(out.result.bid))
 - `floorAt` 의 `-1e-7` 보정은 원본과 똑같이 넣었지만, 내장 데이터 2,904건에서도 600만 건 탐색에서도 결과를 바꾸는 경우를 찾지 못해
   테스트로는 이 줄의 유무를 구분할 수 없습니다.
 - Gradle 빌드와 안드로이드 앱은 이 환경에서 빌드해 보지 못했습니다(Maven 저장소 접근 불가). 엔진 테스트만 `kotlinc` 로 컴파일해 통과를 확인했습니다.
+=======
+# PTUai
+평택대 AI포트폴리오 팀프로젝
+>>>>>>> 369de550690f30e866a69b7863d9960a8b02a579
